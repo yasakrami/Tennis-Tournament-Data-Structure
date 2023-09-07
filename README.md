@@ -29,4 +29,3 @@ This project involves the development of a data structure for managing tennis to
 6. **Display Tournament Fixture** 
    - Implement a function to display the tournament fixture as described.
    - The output should clearly indicate the progression of players and the tournament champion.
-
